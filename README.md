@@ -1,5 +1,7 @@
 
 
+
+
 # Student Management Dashboard
 
 A React-based dashboard for managing student data with Firebase authentication.
@@ -112,4 +114,5 @@ By default, the application uses in-memory storage for development and demonstra
    # Using cross-env (recommended for cross-platform compatibility)
    npx cross-env NODE_ENV=development tsx server/index.ts
    ```
+
 
